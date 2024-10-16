@@ -26,14 +26,14 @@ Cada demanda identificada pelos membros do grupos para a solução do problema d
 
 ## Desenvolvimento da Atividade 
 
-### Objetivo
+## Objetivo
 Desenvolver uma ontologia para dar suporte à integração de datasets de fontes de dados heterogeneas no domínio da linguística utilizando grafos de conhecimento 
 
-### Agentes impactados/envolvidos no problema
+## Agentes impactados/envolvidos no problema
 Pesquisadores na publicação de dados, agentes (humanos e maquinas) em busca de dados.
 
 
-### Questões de Competência
+## Questões de Competência
 * Quais são os tipos de datasets tratados em um repositório?
 * Quais datasets apresentam texto?
 * Quais datasets são apenas visuais?
