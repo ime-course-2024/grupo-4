@@ -33,5 +33,7 @@ Pesquisadores, agentes (humanos e maquinas) em busca de dados.
 
 
 ### Questões de Competência
-* Quais são os tipos de datasets?
-* 
+* Quais são os tipos de datasets tratados em um repositório?
+* Quais datasets apresentam texto?
+* Quais datasets são apenas visuais?
+* Quais datasets podem ser convertidos para texto?
