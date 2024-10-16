@@ -10,6 +10,7 @@ Este repositório contém as atividades desenvolvidas pelo Grupo 4 do curso Enge
 - (Marcelo)
 - Gabriel
 - (Luiza)
+- Lucas
 
 ## Descrição da Atividade
 
