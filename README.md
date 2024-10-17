@@ -1,5 +1,4 @@
-# Grupo 4 - **ALTERAÇÃO TESTE GABRIEL**
-
+# Grupo 4
 Este repositório contém as atividades desenvolvidas pelo Grupo 4 do curso Engenharia de Soluções Baseadas em Ontologias ministrado no Instituto Militar de Engenharia em outubro de 2024.
 
 ## Membros
@@ -10,6 +9,7 @@ Este repositório contém as atividades desenvolvidas pelo Grupo 4 do curso Enge
 - (Marcelo)
 - Gabriel
 - (Luiza)
+- Lucas
 
 ## Descrição da Atividade
 
@@ -25,14 +25,14 @@ Cada demanda identificada pelos membros do grupos para a solução do problema d
 
 ## Desenvolvimento da Atividade 
 
-### Objetivo
+## Objetivo
 Desenvolver uma ontologia para dar suporte à integração de datasets de fontes de dados heterogeneas no domínio da linguística utilizando grafos de conhecimento 
 
-### Agentes impactados/envolvidos no problema
+## Agentes impactados/envolvidos no problema
 Pesquisadores na publicação de dados, agentes (humanos e maquinas) em busca de dados.
 
 
-### Questões de Competência
+## Questões de Competência
 * Quais são os tipos de datasets tratados em um repositório?
 * Quais datasets apresentam texto?
 * Quais datasets são apenas visuais?
